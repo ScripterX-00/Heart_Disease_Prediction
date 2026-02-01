@@ -59,9 +59,8 @@ Diabetes_Prediction/
 ├── hdp_model.pkl 
 ├── Heart Disease Prediction 
 ├── Heart GIF 
-├── heart.csv 
-├── README.md             # Project documentation
-└── LICENSE               # License (MIT recommended)
+├── heart.csv             
+└── README.md               # Project documentation
 ```
 
 ---
@@ -139,7 +138,6 @@ Source: Kaggle – UCI Heart Disease Dataset
 
 ## 🤖 Machine Learning Algorithms
 
-Join our growing community of herbal enthusiasts and developers!
 
 - Logistic Regression
 - K-Nearest Neighbors (KNN)
